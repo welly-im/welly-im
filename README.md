@@ -16,9 +16,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Myself In The Picture
-<img src="[https://random-memer.herokuapp.com/](https://media.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=welly-im&icon=0&color=0)](https://visitcount.itsvg.in)
 
