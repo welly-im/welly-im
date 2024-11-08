@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I have expertise in front end web development. <br>⚡ Currently an expert in JavaScript/ES6 and React frameworks.<br>🌱 I am very interested in web and mobile software development with JavaScript and am currently exploring more about backend programming to become a Full stack developer.<br>
+🔭 I have expertise in front end web development. <br>⚡ Currently an expert in C# and JavaScript/ES6.<br>🌱 I am very interested in web and mobile software development with JavaScript and am currently exploring more about backend programming to become a Full stack developer.<br>
 
 
 ## 🌐 Socials:
